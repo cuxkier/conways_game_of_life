@@ -2,6 +2,9 @@ import time
 import numpy as np
 import pygame
 
+
+# test_commit
+
 COLOR_DIE = (100, 100, 100)
 COLOR_LIVE = (150, 200, 12)
 COLOR_BG = (10, 10, 10)
