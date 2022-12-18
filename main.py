@@ -4,6 +4,7 @@ import pygame
 
 
 # test_commit
+# test_commit.2
 
 COLOR_DIE = (100, 100, 100)
 COLOR_LIVE = (150, 200, 12)
